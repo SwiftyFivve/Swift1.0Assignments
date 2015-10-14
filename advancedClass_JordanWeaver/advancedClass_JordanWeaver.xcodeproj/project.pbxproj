@@ -1,0 +1,432 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8827FB6319EA0F8D00EA433D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8827FB6219EA0F8D00EA433D /* AppDelegate.swift */; };
+		8827FB6519EA0F8D00EA433D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8827FB6419EA0F8D00EA433D /* ViewController.swift */; };
+		8827FB6819EA0F8D00EA433D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8827FB6619EA0F8D00EA433D /* Main.storyboard */; };
+		8827FB6A19EA0F8D00EA433D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8827FB6919EA0F8D00EA433D /* Images.xcassets */; };
+		8827FB6D19EA0F8D00EA433D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8827FB6B19EA0F8D00EA433D /* LaunchScreen.xib */; };
+		8827FB7919EA0F8D00EA433D /* advancedClass_JordanWeaverTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8827FB7819EA0F8D00EA433D /* advancedClass_JordanWeaverTests.swift */; };
+		8827FB8319EA177100EA433D /* baseClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8827FB8219EA177100EA433D /* baseClass.swift */; };
+		8827FB8519EA255900EA433D /* anatolyClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8827FB8419EA255900EA433D /* anatolyClass.swift */; };
+		8827FB8719EA256800EA433D /* jordanFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8827FB8619EA256800EA433D /* jordanFile.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8827FB7319EA0F8D00EA433D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8827FB5519EA0F8D00EA433D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8827FB5C19EA0F8D00EA433D;
+			remoteInfo = advancedClass_JordanWeaver;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8827FB5D19EA0F8D00EA433D /* advancedClass_JordanWeaver.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = advancedClass_JordanWeaver.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8827FB6119EA0F8D00EA433D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8827FB6219EA0F8D00EA433D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8827FB6419EA0F8D00EA433D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8827FB6719EA0F8D00EA433D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8827FB6919EA0F8D00EA433D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		8827FB6C19EA0F8D00EA433D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		8827FB7219EA0F8D00EA433D /* advancedClass_JordanWeaverTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = advancedClass_JordanWeaverTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8827FB7719EA0F8D00EA433D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8827FB7819EA0F8D00EA433D /* advancedClass_JordanWeaverTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = advancedClass_JordanWeaverTests.swift; sourceTree = "<group>"; };
+		8827FB8219EA177100EA433D /* baseClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = baseClass.swift; sourceTree = "<group>"; };
+		8827FB8419EA255900EA433D /* anatolyClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = anatolyClass.swift; sourceTree = "<group>"; };
+		8827FB8619EA256800EA433D /* jordanFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = jordanFile.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8827FB5A19EA0F8D00EA433D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8827FB6F19EA0F8D00EA433D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8827FB5419EA0F8D00EA433D = {
+			isa = PBXGroup;
+			children = (
+				8827FB5F19EA0F8D00EA433D /* advancedClass_JordanWeaver */,
+				8827FB7519EA0F8D00EA433D /* advancedClass_JordanWeaverTests */,
+				8827FB5E19EA0F8D00EA433D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8827FB5E19EA0F8D00EA433D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8827FB5D19EA0F8D00EA433D /* advancedClass_JordanWeaver.app */,
+				8827FB7219EA0F8D00EA433D /* advancedClass_JordanWeaverTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8827FB5F19EA0F8D00EA433D /* advancedClass_JordanWeaver */ = {
+			isa = PBXGroup;
+			children = (
+				8827FB6219EA0F8D00EA433D /* AppDelegate.swift */,
+				8827FB6419EA0F8D00EA433D /* ViewController.swift */,
+				8827FB8219EA177100EA433D /* baseClass.swift */,
+				8827FB8419EA255900EA433D /* anatolyClass.swift */,
+				8827FB8619EA256800EA433D /* jordanFile.swift */,
+				8827FB6619EA0F8D00EA433D /* Main.storyboard */,
+				8827FB6919EA0F8D00EA433D /* Images.xcassets */,
+				8827FB6B19EA0F8D00EA433D /* LaunchScreen.xib */,
+				8827FB6019EA0F8D00EA433D /* Supporting Files */,
+			);
+			path = advancedClass_JordanWeaver;
+			sourceTree = "<group>";
+		};
+		8827FB6019EA0F8D00EA433D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8827FB6119EA0F8D00EA433D /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8827FB7519EA0F8D00EA433D /* advancedClass_JordanWeaverTests */ = {
+			isa = PBXGroup;
+			children = (
+				8827FB7819EA0F8D00EA433D /* advancedClass_JordanWeaverTests.swift */,
+				8827FB7619EA0F8D00EA433D /* Supporting Files */,
+			);
+			path = advancedClass_JordanWeaverTests;
+			sourceTree = "<group>";
+		};
+		8827FB7619EA0F8D00EA433D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8827FB7719EA0F8D00EA433D /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8827FB5C19EA0F8D00EA433D /* advancedClass_JordanWeaver */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8827FB7C19EA0F8D00EA433D /* Build configuration list for PBXNativeTarget "advancedClass_JordanWeaver" */;
+			buildPhases = (
+				8827FB5919EA0F8D00EA433D /* Sources */,
+				8827FB5A19EA0F8D00EA433D /* Frameworks */,
+				8827FB5B19EA0F8D00EA433D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = advancedClass_JordanWeaver;
+			productName = advancedClass_JordanWeaver;
+			productReference = 8827FB5D19EA0F8D00EA433D /* advancedClass_JordanWeaver.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8827FB7119EA0F8D00EA433D /* advancedClass_JordanWeaverTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8827FB7F19EA0F8D00EA433D /* Build configuration list for PBXNativeTarget "advancedClass_JordanWeaverTests" */;
+			buildPhases = (
+				8827FB6E19EA0F8D00EA433D /* Sources */,
+				8827FB6F19EA0F8D00EA433D /* Frameworks */,
+				8827FB7019EA0F8D00EA433D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8827FB7419EA0F8D00EA433D /* PBXTargetDependency */,
+			);
+			name = advancedClass_JordanWeaverTests;
+			productName = advancedClass_JordanWeaverTests;
+			productReference = 8827FB7219EA0F8D00EA433D /* advancedClass_JordanWeaverTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8827FB5519EA0F8D00EA433D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = "Jordan Weaver";
+				TargetAttributes = {
+					8827FB5C19EA0F8D00EA433D = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+					8827FB7119EA0F8D00EA433D = {
+						CreatedOnToolsVersion = 6.0.1;
+						TestTargetID = 8827FB5C19EA0F8D00EA433D;
+					};
+				};
+			};
+			buildConfigurationList = 8827FB5819EA0F8D00EA433D /* Build configuration list for PBXProject "advancedClass_JordanWeaver" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8827FB5419EA0F8D00EA433D;
+			productRefGroup = 8827FB5E19EA0F8D00EA433D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8827FB5C19EA0F8D00EA433D /* advancedClass_JordanWeaver */,
+				8827FB7119EA0F8D00EA433D /* advancedClass_JordanWeaverTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8827FB5B19EA0F8D00EA433D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8827FB6819EA0F8D00EA433D /* Main.storyboard in Resources */,
+				8827FB6D19EA0F8D00EA433D /* LaunchScreen.xib in Resources */,
+				8827FB6A19EA0F8D00EA433D /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8827FB7019EA0F8D00EA433D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8827FB5919EA0F8D00EA433D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8827FB6519EA0F8D00EA433D /* ViewController.swift in Sources */,
+				8827FB6319EA0F8D00EA433D /* AppDelegate.swift in Sources */,
+				8827FB8719EA256800EA433D /* jordanFile.swift in Sources */,
+				8827FB8319EA177100EA433D /* baseClass.swift in Sources */,
+				8827FB8519EA255900EA433D /* anatolyClass.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8827FB6E19EA0F8D00EA433D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8827FB7919EA0F8D00EA433D /* advancedClass_JordanWeaverTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8827FB7419EA0F8D00EA433D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8827FB5C19EA0F8D00EA433D /* advancedClass_JordanWeaver */;
+			targetProxy = 8827FB7319EA0F8D00EA433D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8827FB6619EA0F8D00EA433D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8827FB6719EA0F8D00EA433D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8827FB6B19EA0F8D00EA433D /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8827FB6C19EA0F8D00EA433D /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8827FB7A19EA0F8D00EA433D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8827FB7B19EA0F8D00EA433D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8827FB7D19EA0F8D00EA433D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = advancedClass_JordanWeaver/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8827FB7E19EA0F8D00EA433D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = advancedClass_JordanWeaver/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8827FB8019EA0F8D00EA433D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = advancedClass_JordanWeaverTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/advancedClass_JordanWeaver.app/advancedClass_JordanWeaver";
+			};
+			name = Debug;
+		};
+		8827FB8119EA0F8D00EA433D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = advancedClass_JordanWeaverTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/advancedClass_JordanWeaver.app/advancedClass_JordanWeaver";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8827FB5819EA0F8D00EA433D /* Build configuration list for PBXProject "advancedClass_JordanWeaver" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8827FB7A19EA0F8D00EA433D /* Debug */,
+				8827FB7B19EA0F8D00EA433D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8827FB7C19EA0F8D00EA433D /* Build configuration list for PBXNativeTarget "advancedClass_JordanWeaver" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8827FB7D19EA0F8D00EA433D /* Debug */,
+				8827FB7E19EA0F8D00EA433D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		8827FB7F19EA0F8D00EA433D /* Build configuration list for PBXNativeTarget "advancedClass_JordanWeaverTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8827FB8019EA0F8D00EA433D /* Debug */,
+				8827FB8119EA0F8D00EA433D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8827FB5519EA0F8D00EA433D /* Project object */;
+}
